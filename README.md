@@ -1,0 +1,2 @@
+# javadeneme
+yeterli bence
